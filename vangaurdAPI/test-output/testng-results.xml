@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23879" started-at="2019-05-12T15:10:38Z" finished-at="2019-05-12T15:11:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23879" started-at="2019-05-12T15:10:38Z" finished-at="2019-05-12T15:11:02Z">
+      <class name="getRequest.GetData">
+        <test-method status="PASS" signature="GetStatusLine()[pri:0, instance:getRequest.GetData@4520ebad]" name="GetStatusLine" duration-ms="6806" started-at="2019-05-12T15:10:38Z" finished-at="2019-05-12T15:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetStatusLine -->
+        <test-method status="PASS" signature="testResponseBody()[pri:0, instance:getRequest.GetData@4520ebad]" name="testResponseBody" duration-ms="2913" started-at="2019-05-12T15:10:45Z" finished-at="2019-05-12T15:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseBody -->
+        <test-method status="PASS" signature="testResponseCode()[pri:0, instance:getRequest.GetData@4520ebad]" name="testResponseCode" duration-ms="2481" started-at="2019-05-12T15:10:48Z" finished-at="2019-05-12T15:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCode -->
+        <test-method status="PASS" signature="testResponsetime()[pri:0, instance:getRequest.GetData@4520ebad]" name="testResponsetime" duration-ms="6184" started-at="2019-05-12T15:10:50Z" finished-at="2019-05-12T15:10:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponsetime -->
+        <test-method status="PASS" signature="teststatusHeader()[pri:0, instance:getRequest.GetData@4520ebad]" name="teststatusHeader" duration-ms="5422" started-at="2019-05-12T15:10:56Z" finished-at="2019-05-12T15:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teststatusHeader -->
+      </class> <!-- getRequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
